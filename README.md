@@ -18,8 +18,8 @@ pip install -r data_rules/requirements.txt
 
 ## figstyle.py
 
-![예시 1](examples/example_origin.png)
-![예시 2](examples/example_gradient.png)
+![예시 1](examples/fig_twin_hist.png)
+![예시 2](examples/fig_gradient.png)
 
 ```python
 import figstyle as fs
